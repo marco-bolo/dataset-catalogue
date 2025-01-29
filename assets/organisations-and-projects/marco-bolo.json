@@ -1,1 +1,37 @@
-...
+{
+    "@context": {
+        "@vocab": "https://schema.org/"
+    },
+    "@id": "",
+    "@type": "ResearchProject", 
+    "name": "Marine Coastal Biodiversity Long-term Observations (MARCO-BOLO): Strengthening biodiversity observation in support of decision making.",
+    "alternateName": "MARCO-BOLO", 
+    "identifier": "https://doi.org/10.3030/101082021",
+    "url": "https://marcobolo-project.eu/",
+    "description": "MARCO-BOLO (MBO) aims to structure and strengthen European coastal and marine biodiversity observation capabilities, linking them to global efforts to understand and restore ocean health, hence ensuring that outputs respond to explicit stakeholder needs from policy, planning and industry. To this end MBO will establish and engage with a Community of Practice (CoP) to determine end-user needs with the aim of optimising marine data flows, knowledge uptake, and improving governance based on biodiversity observations. By exploiting synergies with concurrent projects MBO will develop and demonstrate new autonomous technology for biodiversity mapping and monitoring, and data streams from remote sensing, eDNA, robotics, optical and acoustic observations. Protocols for eDNA-based biodiversity observations are established and validated across applications, taxa and ecosystems. The sequence of the analytical and technical processes for the different use cases will be incorporated into operational Essential Ocean Variables (EOVs) and Essential Biodiversity Variables (EBVs) and included into online reusable workflows, contributing to the free and open access of EU and global biodiversity information facilities, and to support major EU biodiversity directives and global initiatives. The project partnership will leverage its international activities (MBON, GOOS, OBIS) and participation in UN Ocean Decade Programmes (Marine Life 2030, OBON, ODIS, Ocean Practices for the Decade) to align the MBO work programme to global CoP, ensuring European participation and leadership in global biodiversity monitoring and global science. MBO results will be designed to build upon existing capability and infrastructures, and to be relevant to existing frameworks so that outputs can be easily integrated into national, regional (EU and adjacent sea basins), and global observation systems, with no delay ensuring the reusability of the investments Europe is already making in data generation.",
+    "keywords": [
+        "oceanography",
+        "marine science",
+        "freshwater science",
+        "biodiversity",
+        "eDNA",
+        "omics"
+    ],
+    "email": "info@marcobolo-project.eu",
+    "contactPoint": {
+        "@type": "ContactPoint",
+        "@id": "https://oceanexpert.org/expert/nhy390",
+        "contactType": "Project Coordinator",
+        "name": "Nicolas Pade"
+    },
+  "funding": {"@id": "LINK-TO-MONETARY-GRANT"}
+  "dissolutionDate": "2022-12-01",
+  "foundingDate": "2026-11-30",
+  "subjectOf": {
+    "@type": "DataDownload",
+    "name": "Official MARCO-BOLO metadata from the EU CORDIS portal"
+    "contentUrl": "https://cordis.europa.eu/project/id/101082021?format=xml",
+    "encodingFormat": "text/xml"
+
+  }
+}

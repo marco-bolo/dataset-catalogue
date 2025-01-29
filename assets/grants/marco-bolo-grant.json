@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "MonetaryGrant",
+  "@id": "",
+  "name": "Grant Agreement No. 101082021 (MARCO-BOLO)"
+  "identifier": [
+    "101082021",
+    "10068180 (MS)",
+    "10063994 (MBA)",
+    "10048178 (NOC)"
+   ],
+    "funder":
+      "@id": "LINK-TO-EU-JSON",
+      "@type": "Organization",
+      "name": "European Union"
+     },
+  "amount": {
+    "currency": "EUR",
+    "value": "7255037.50"
+  }
+}
